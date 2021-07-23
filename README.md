@@ -1,0 +1,1 @@
+# com.craftsman.kawaii.world.minicraft
